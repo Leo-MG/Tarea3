@@ -1,7 +1,7 @@
 package Modelo;
 
 public class Persistencia {
-	private String dato = "Soy un dato NUEVO en ambiente nuevo";
+	private String dato = "Soy un dato NUEVO en ambiente viejo";
 
 	public String getDato() {
 		return dato;
